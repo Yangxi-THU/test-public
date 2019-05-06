@@ -1,0 +1,14 @@
+
+--- Job elecinput.gms Start 05/06/19 14:45:43 24.2.3 r46072 WEX-VS8 x86/MS Windows
+GAMS 24.2.3   Copyright (C) 1987-2014 GAMS Development. All rights reserved
+Licensee: Joint Program                                  G130523:1414AN-GEN
+          Massachusetts Institute of Technology                        DC11
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- elecinput.gms(3) 2 Mb
+--- GDXin=C:\Users\HP\Desktop\test\rebalancedIO.gdx
+--- elecinput.gms(595) 3 Mb
+--- Starting execution: elapsed 0:00:00.004
+--- elecinput.gms(589) 5 Mb
+*** Status: Normal completion
+--- Job elecinput.gms Stop 05/06/19 14:45:43 elapsed 0:00:00.007
