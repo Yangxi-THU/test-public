@@ -1,6 +1,7 @@
 $title elec input data calculator
-
 $gdxin 'rebalancedIO.gdx'
+
+*test: add
 
 set i /
 agr
